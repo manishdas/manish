@@ -1,0 +1,13 @@
+This is Readme.rdoc where the gem usage will be defined
+
+This is Readme.rdoc where the gem usage will be defined
+
+
+This is Readme.rdoc where the gem usage will be defined
+
+
+
+This is Readme.rdoc where the gem usage will be defined
+
+require 'manish'
+Manish.say_hello("name") 
